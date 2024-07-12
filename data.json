@@ -1,2002 +1,726 @@
 [
   {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+    "food_name": "Apple",
+    "nutrition": "Calories: 52, Carbs: 14g, Fiber: 2.4g, Vitamin C: 14%"
   },
   {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+    "food_name": "Banana",
+    "nutrition": "Calories: 89, Carbs: 23g, Fiber: 2.6g, Vitamin C: 15%"
   },
   {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+    "food_name": "Orange",
+    "nutrition": "Calories: 62, Carbs: 15g, Fiber: 3.1g, Vitamin C: 116%"
   },
   {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+    "food_name": "Strawberry",
+    "nutrition": "Calories: 32, Carbs: 7.7g, Fiber: 2g, Vitamin C: 97%"
   },
   {
-    "destination_name": "London",
-    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+    "food_name": "Blueberry",
+    "nutrition": "Calories: 57, Carbs: 14g, Fiber: 2.4g, Vitamin C: 16%"
   },
   {
-    "destination_name": "Bangkok",
-    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+    "food_name": "Grapes",
+    "nutrition": "Calories: 69, Carbs: 18g, Fiber: 0.9g, Vitamin C: 4%"
   },
   {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+    "food_name": "Watermelon",
+    "nutrition": "Calories: 30, Carbs: 8g, Fiber: 0.4g, Vitamin C: 8%"
   },
   {
-    "destination_name": "Dubai",
-    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+    "food_name": "Pineapple",
+    "nutrition": "Calories: 50, Carbs: 13g, Fiber: 1.4g, Vitamin C: 79%"
   },
   {
-    "destination_name": "Istanbul",
-    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+    "food_name": "Mango",
+    "nutrition": "Calories: 60, Carbs: 15g, Fiber: 1.6g, Vitamin C: 60%"
   },
   {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+    "food_name": "Peach",
+    "nutrition": "Calories: 39, Carbs: 10g, Fiber: 1.5g, Vitamin C: 10%"
   },
   {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+    "food_name": "Plum",
+    "nutrition": "Calories: 46, Carbs: 11g, Fiber: 1.4g, Vitamin C: 10%"
   },
   {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+    "food_name": "Kiwi",
+    "nutrition": "Calories: 42, Carbs: 10g, Fiber: 2.1g, Vitamin C: 71%"
   },
   {
-    "destination_name": "Hong Kong",
-    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+    "food_name": "Pear",
+    "nutrition": "Calories: 57, Carbs: 15g, Fiber: 3.1g, Vitamin C: 7%"
   },
   {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+    "food_name": "Cherry",
+    "nutrition": "Calories: 50, Carbs: 12g, Fiber: 1.6g, Vitamin C: 10%"
   },
   {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+    "food_name": "Pomegranate",
+    "nutrition": "Calories: 83, Carbs: 19g, Fiber: 4g, Vitamin C: 17%"
   },
   {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+    "food_name": "Coconut",
+    "nutrition": "Calories: 354, Carbs: 15g, Fiber: 9g, Vitamin C: 5%"
   },
   {
-    "destination_name": "Kyoto",
-    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+    "food_name": "Papaya",
+    "nutrition": "Calories: 43, Carbs: 11g, Fiber: 1.7g, Vitamin C: 157%"
   },
   {
-    "destination_name": "Marrakech",
-    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+    "food_name": "Fig",
+    "nutrition": "Calories: 74, Carbs: 19g, Fiber: 3g, Vitamin C: 3%"
   },
   {
-    "destination_name": "Los Angeles",
-    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+    "food_name": "Lychee",
+    "nutrition": "Calories: 66, Carbs: 17g, Fiber: 1.3g, Vitamin C: 119%"
   },
   {
-    "destination_name": "Bali",
-    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+    "food_name": "Dragon Fruit",
+    "nutrition": "Calories: 50, Carbs: 13g, Fiber: 3g, Vitamin C: 3%"
   },
   {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+    "food_name": "Avocado",
+    "nutrition": "Calories: 160, Carbs: 9g, Fiber: 7g, Vitamin C: 16%"
   },
   {
-    "destination_name": "Lisbon",
-    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+    "food_name": "Blackberry",
+    "nutrition": "Calories: 43, Carbs: 10g, Fiber: 5.3g, Vitamin C: 35%"
   },
   {
-    "destination_name": "Buenos Aires",
-    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+    "food_name": "Raspberry",
+    "nutrition": "Calories: 52, Carbs: 12g, Fiber: 6.5g, Vitamin C: 36%"
   },
   {
-    "destination_name": "Prague",
-    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+    "food_name": "Cranberry",
+    "nutrition": "Calories: 46, Carbs: 12g, Fiber: 4.6g, Vitamin C: 22%"
   },
   {
-    "destination_name": "Seoul",
-    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+    "food_name": "Guava",
+    "nutrition": "Calories: 68, Carbs: 14g, Fiber: 5.4g, Vitamin C: 228%"
   },
   {
-    "destination_name": "Athens",
-    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+    "food_name": "Jackfruit",
+    "nutrition": "Calories: 95, Carbs: 23g, Fiber: 1.5g, Vitamin C: 18%"
   },
   {
-    "destination_name": "Cairo",
-    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+    "food_name": "Durian",
+    "nutrition": "Calories: 147, Carbs: 27g, Fiber: 3.8g, Vitamin C: 33%"
   },
   {
-    "destination_name": "Florence",
-    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+    "food_name": "Cantaloupe",
+    "nutrition": "Calories: 34, Carbs: 8g, Fiber: 0.9g, Vitamin C: 61%"
   },
   {
-    "destination_name": "Havana",
-    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+    "food_name": "Honeydew",
+    "nutrition": "Calories: 36, Carbs: 9g, Fiber: 0.8g, Vitamin C: 30%"
   },
   {
-    "destination_name": "Berlin",
-    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+    "food_name": "Passion Fruit",
+    "nutrition": "Calories: 97, Carbs: 23g, Fiber: 10g, Vitamin C: 50%"
   },
   {
-    "destination_name": "Venice",
-    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+    "food_name": "Starfruit",
+    "nutrition": "Calories: 31, Carbs: 7g, Fiber: 2.8g, Vitamin C: 57%"
   },
   {
-    "destination_name": "Mexico City",
-    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+    "food_name": "Apricot",
+    "nutrition": "Calories: 48, Carbs: 11g, Fiber: 2g, Vitamin C: 12%"
   },
   {
-    "destination_name": "Madrid",
-    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+    "food_name": "Grapefruit",
+    "nutrition": "Calories: 42, Carbs: 11g, Fiber: 1.6g, Vitamin C: 52%"
   },
   {
-    "destination_name": "Munich",
-    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+    "food_name": "Nectarine",
+    "nutrition": "Calories: 44, Carbs: 11g, Fiber: 1.7g, Vitamin C: 12%"
   },
   {
-    "destination_name": "Moscow",
-    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+    "food_name": "Tangerine",
+    "nutrition": "Calories: 53, Carbs: 13g, Fiber: 1.8g, Vitamin C: 44%"
   },
   {
-    "destination_name": "Milan",
-    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+    "food_name": "Cucumber",
+    "nutrition": "Calories: 16, Carbs: 3.6g, Fiber: 0.5g, Vitamin C: 4%"
   },
   {
-    "destination_name": "Toronto",
-    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+    "food_name": "Tomato",
+    "nutrition": "Calories: 18, Carbs: 3.9g, Fiber: 1.2g, Vitamin C: 21%"
   },
   {
-    "destination_name": "Shanghai",
-    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+    "food_name": "Bell Pepper",
+    "nutrition": "Calories: 31, Carbs: 6g, Fiber: 2.1g, Vitamin C: 213%"
   },
   {
-    "destination_name": "Beijing",
-    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+    "food_name": "Carrot",
+    "nutrition": "Calories: 41, Carbs: 10g, Fiber: 2.8g, Vitamin C: 9%"
   },
   {
-    "destination_name": "Vancouver",
-    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+    "food_name": "Broccoli",
+    "nutrition": "Calories: 34, Carbs: 7g, Fiber: 2.6g, Vitamin C: 89%"
   },
   {
-    "destination_name": "Edinburgh",
-    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+    "food_name": "Cauliflower",
+    "nutrition": "Calories: 25, Carbs: 5g, Fiber: 2g, Vitamin C: 77%"
   },
   {
-    "destination_name": "Las Vegas",
-    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+    "food_name": "Spinach",
+    "nutrition": "Calories: 23, Carbs: 3.6g, Fiber: 2.2g, Vitamin C: 47%"
   },
   {
-    "destination_name": "Kuala Lumpur",
-    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+    "food_name": "Kale",
+    "nutrition": "Calories: 35, Carbs: 7g, Fiber: 2.6g, Vitamin C: 200%"
   },
   {
-    "destination_name": "Dublin",
-    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+    "food_name": "Lettuce",
+    "nutrition": "Calories: 15, Carbs: 2.9g, Fiber: 1.3g, Vitamin C: 5%"
   },
   {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+    "food_name": "Zucchini",
+    "nutrition": "Calories: 17, Carbs: 3.1g, Fiber: 1g, Vitamin C: 29%"
   },
   {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+    "food_name": "Eggplant",
+    "nutrition": "Calories: 25, Carbs: 5.9g, Fiber: 3g, Vitamin C: 3%"
   },
   {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+    "food_name": "Mushroom",
+    "nutrition": "Calories: 22, Carbs: 3.3g, Fiber: 1g, Vitamin C: 2%"
   },
   {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+    "food_name": "Onion",
+    "nutrition": "Calories: 40, Carbs: 9g, Fiber: 1.7g, Vitamin C: 12%"
   },
   {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+    "food_name": "Garlic",
+    "nutrition": "Calories: 149, Carbs: 33g, Fiber: 2.1g, Vitamin C: 52%"
   },
   {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+    "food_name": "Beetroot",
+    "nutrition": "Calories: 43, Carbs: 10g, Fiber: 2.8g, Vitamin C: 8%"
   },
   {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+    "food_name": "Potato",
+    "nutrition": "Calories: 77, Carbs: 17g, Fiber: 2.2g, Vitamin C: 32%"
   },
   {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+    "food_name": "Sweet Potato",
+    "nutrition": "Calories: 86, Carbs: 20g, Fiber: 3g, Vitamin C: 4%"
   },
   {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+    "food_name": "Pumpkin",
+    "nutrition": "Calories: 26, Carbs: 7g, Fiber: 0.5g, Vitamin C: 15%"
   },
   {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+    "food_name": "Butternut Squash",
+    "nutrition": "Calories: 45, Carbs: 12g, Fiber: 2g, Vitamin C: 35%"
   },
   {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+    "food_name": "Radish",
+    "nutrition": "Calories: 16, Carbs: 3.4g, Fiber: 1.6g, Vitamin C: 24%"
   },
   {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+    "food_name": "Turnip",
+    "nutrition": "Calories: 28, Carbs: 6.4g, Fiber: 1.8g, Vitamin C: 35%"
   },
   {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+    "food_name": "Parsnip",
+    "nutrition": "Calories: 75, Carbs: 18g, Fiber: 4.9g, Vitamin C: 28%"
   },
   {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+    "food_name": "Celery",
+    "nutrition": "Calories: 16, Carbs: 3g, Fiber: 1.6g, Vitamin C: 3%"
   },
   {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+    "food_name": "Green Beans",
+    "nutrition": "Calories: 31, Carbs: 7g, Fiber: 3.4g, Vitamin C: 20%"
   },
   {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+    "food_name": "Peas",
+    "nutrition": "Calories: 81, Carbs: 14g, Fiber: 5g, Vitamin C: 66%"
   },
   {
-    "destination_name": "London",
-    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+    "food_name": "Corn",
+    "nutrition": "Calories: 86, Carbs: 19g, Fiber: 2.7g, Vitamin C: 8%"
   },
   {
-    "destination_name": "Bangkok",
-    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+    "food_name": "Bell Pepper",
+    "nutrition": "Calories: 31, Carbs: 6g, Fiber: 2.1g, Vitamin C: 213%"
   },
   {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+    "food_name": "Chili Pepper",
+    "nutrition": "Calories: 40, Carbs: 9g, Fiber: 1.5g, Vitamin C: 404%"
   },
   {
-    "destination_name": "Dubai",
-    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+    "food_name": "Cabbage",
+    "nutrition": "Calories: 25, Carbs: 6g, Fiber: 2.5g, Vitamin C: 54%"
   },
   {
-    "destination_name": "Istanbul",
-    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+    "food_name": "Brussels Sprouts",
+    "nutrition": "Calories: 43, Carbs: 9g, Fiber: 3.8g, Vitamin C: 141%"
   },
   {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+    "food_name": "Asparagus",
+    "nutrition": "Calories: 20, Carbs: 3.9g, Fiber: 2.1g, Vitamin C: 5%"
   },
   {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+    "food_name": "Artichoke",
+    "nutrition": "Calories: 47, Carbs: 11g, Fiber: 5.4g, Vitamin C: 15%"
   },
   {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+    "food_name": "Leek",
+    "nutrition": "Calories: 61, Carbs: 14g, Fiber: 1.8g, Vitamin C: 16%"
   },
   {
-    "destination_name": "Hong Kong",
-    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+    "food_name": "Okra",
+    "nutrition": "Calories: 33, Carbs: 7g, Fiber: 3.2g, Vitamin C: 38%"
   },
   {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+    "food_name": "Kohlrabi",
+    "nutrition": "Calories: 27, Carbs: 6.2g, Fiber: 3.6g, Vitamin C: 62%"
   },
   {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+    "food_name": "Rutabaga",
+    "nutrition": "Calories: 37, Carbs: 8.6g, Fiber: 2.3g, Vitamin C: 48%"
   },
   {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+    "food_name": "Bok Choy",
+    "nutrition": "Calories: 13, Carbs: 2.2g, Fiber: 1g, Vitamin C: 75%"
   },
   {
-    "destination_name": "Kyoto",
-    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+    "food_name": "Swiss Chard",
+    "nutrition": "Calories: 19, Carbs: 3.7g, Fiber: 1.6g, Vitamin C: 33%"
   },
   {
-    "destination_name": "Marrakech",
-    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+    "food_name": "Collard Greens",
+    "nutrition": "Calories: 32, Carbs: 7.6g, Fiber: 4g, Vitamin C: 58%"
   },
   {
-    "destination_name": "Los Angeles",
-    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+    "food_name": "Mustard Greens",
+    "nutrition": "Calories: 27, Carbs: 4.7g, Fiber: 3.2g, Vitamin C: 217%"
   },
   {
-    "destination_name": "Bali",
-    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+    "food_name": "Watercress",
+    "nutrition": "Calories: 11, Carbs: 1.3g, Fiber: 0.5g, Vitamin C: 24%"
   },
   {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+    "food_name": "Endive",
+    "nutrition": "Calories: 17, Carbs: 3.4g, Fiber: 3.1g, Vitamin C: 14%"
   },
   {
-    "destination_name": "Lisbon",
-    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+    "food_name": "Arugula",
+    "nutrition": "Calories: 25, Carbs: 3.7g, Fiber: 1.6g, Vitamin C: 25%"
   },
   {
-    "destination_name": "Buenos Aires",
-    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+    "food_name": "Radicchio",
+    "nutrition": "Calories: 23, Carbs: 4.5g, Fiber: 0.9g, Vitamin C: 8%"
   },
   {
-    "destination_name": "Prague",
-    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+    "food_name": "Romaine Lettuce",
+    "nutrition": "Calories: 17, Carbs: 3.3g, Fiber: 2.1g, Vitamin C: 15%"
   },
   {
-    "destination_name": "Seoul",
-    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+    "food_name": "Mizuna",
+    "nutrition": "Calories: 21, Carbs: 3.1g, Fiber: 2.1g, Vitamin C: 65%"
   },
   {
-    "destination_name": "Athens",
-    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+    "food_name": "Moringa",
+    "nutrition": "Calories: 64, Carbs: 8.3g, Fiber: 4.3g, Vitamin C: 12%"
   },
   {
-    "destination_name": "Cairo",
-    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+    "food_name": "Amaranth Leaves",
+    "nutrition": "Calories: 23, Carbs: 4g, Fiber: 2.2g, Vitamin C: 70%"
   },
   {
-    "destination_name": "Florence",
-    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+    "food_name": "Dandelion Greens",
+    "nutrition": "Calories: 45, Carbs: 9.2g, Fiber: 3.5g, Vitamin C: 58%"
   },
   {
-    "destination_name": "Havana",
-    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+    "food_name": "Chicory",
+    "nutrition": "Calories: 23, Carbs: 4.7g, Fiber: 4g, Vitamin C: 6%"
   },
   {
-    "destination_name": "Berlin",
-    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+    "food_name": "Burdock Root",
+    "nutrition": "Calories: 72, Carbs: 17g, Fiber: 3.3g, Vitamin C: 5%"
   },
   {
-    "destination_name": "Venice",
-    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+    "food_name": "Seaweed",
+    "nutrition": "Calories: 45, Carbs: 9.6g, Fiber: 0.5g, Vitamin C: 10%"
   },
   {
-    "destination_name": "Mexico City",
-    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+    "food_name": "Alfalfa Sprouts",
+    "nutrition": "Calories: 23, Carbs: 2.1g, Fiber: 1.9g, Vitamin C: 14%"
   },
   {
-    "destination_name": "Madrid",
-    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+    "food_name": "Bamboo Shoots",
+    "nutrition": "Calories: 27, Carbs: 5.2g, Fiber: 2.2g, Vitamin C: 10%"
   },
   {
-    "destination_name": "Munich",
-    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+    "food_name": "Lotus Root",
+    "nutrition": "Calories: 74, Carbs: 17g, Fiber: 4.9g, Vitamin C: 73%"
   },
   {
-    "destination_name": "Moscow",
-    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+    "food_name": "Jicama",
+    "nutrition": "Calories: 38, Carbs: 9g, Fiber: 4.9g, Vitamin C: 40%"
   },
   {
-    "destination_name": "Milan",
-    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+    "food_name": "Horseradish",
+    "nutrition": "Calories: 48, Carbs: 11g, Fiber: 3.3g, Vitamin C: 24%"
   },
   {
-    "destination_name": "Toronto",
-    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+    "food_name": "Taro",
+    "nutrition": "Calories: 142, Carbs: 34g, Fiber: 5.1g, Vitamin C: 5%"
   },
   {
-    "destination_name": "Shanghai",
-    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+    "food_name": "Yam",
+    "nutrition": "Calories: 118, Carbs: 28g, Fiber: 4.1g, Vitamin C: 27%"
   },
   {
-    "destination_name": "Beijing",
-    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+    "food_name": "Cassava",
+    "nutrition": "Calories: 160, Carbs: 38g, Fiber: 1.8g, Vitamin C: 34%"
   },
   {
-    "destination_name": "Vancouver",
-    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+    "food_name": "Plantain",
+    "nutrition": "Calories: 122, Carbs: 32g, Fiber: 2.3g, Vitamin C: 22%"
   },
   {
-    "destination_name": "Edinburgh",
-    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+    "food_name": "Salsify",
+    "nutrition": "Calories: 82, Carbs: 19g, Fiber: 3.9g, Vitamin C: 7%"
   },
   {
-    "destination_name": "Las Vegas",
-    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+    "food_name": "Celeriac",
+    "nutrition": "Calories: 42, Carbs: 9g, Fiber: 1.8g, Vitamin C: 8%"
   },
   {
-    "destination_name": "Kuala Lumpur",
-    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+    "food_name": "Skirret",
+    "nutrition": "Calories: 80, Carbs: 18g, Fiber: 2.7g, Vitamin C: 10%"
   },
   {
-    "destination_name": "Dublin",
-    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+    "food_name": "Turmeric Root",
+    "nutrition": "Calories: 354, Carbs: 65g, Fiber: 21g, Vitamin C: 43%"
   },
   {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+    "food_name": "Ginger Root",
+    "nutrition": "Calories: 80, Carbs: 18g, Fiber: 2g, Vitamin C: 8%"
   },
   {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+    "food_name": "Galangal Root",
+    "nutrition": "Calories: 71, Carbs: 15g, Fiber: 1.5g, Vitamin C: 1%"
   },
   {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+    "food_name": "Parsley Root",
+    "nutrition": "Calories: 55, Carbs: 12g, Fiber: 4g, Vitamin C: 50%"
   },
   {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+    "food_name": "Jerusalem Artichoke",
+    "nutrition": "Calories: 73, Carbs: 17g, Fiber: 2.4g, Vitamin C: 4%"
   },
   {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+    "food_name": "Sunchoke",
+    "nutrition": "Calories: 73, Carbs: 17g, Fiber: 2.4g, Vitamin C: 4%"
   },
   {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+    "food_name": "Squash Blossoms",
+    "nutrition": "Calories: 12, Carbs: 2.2g, Fiber: 0.7g, Vitamin C: 22%"
   },
   {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+    "food_name": "Fiddleheads",
+    "nutrition": "Calories: 34, Carbs: 5.5g, Fiber: 1.8g, Vitamin C: 44%"
   },
   {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+    "food_name": "Cattail Shoots",
+    "nutrition": "Calories: 40, Carbs: 6.7g, Fiber: 1.3g, Vitamin C: 30%"
   },
   {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+    "food_name": "Chaya",
+    "nutrition": "Calories: 38, Carbs: 7g, Fiber: 3g, Vitamin C: 289%"
   },
   {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+    "food_name": "Malabar Spinach",
+    "nutrition": "Calories: 23, Carbs: 3.4g, Fiber: 2g, Vitamin C: 73%"
   },
   {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+    "food_name": "Orach",
+    "nutrition": "Calories: 29, Carbs: 6g, Fiber: 3.3g, Vitamin C: 19%"
   },
   {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+    "food_name": "Epazote",
+    "nutrition": "Calories: 32, Carbs: 7.2g, Fiber: 0.5g, Vitamin C: 41%"
   },
   {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+    "food_name": "Mizuna Greens",
+    "nutrition": "Calories: 21, Carbs: 3.1g, Fiber: 2.1g, Vitamin C: 65%"
   },
   {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+    "food_name": "Okinawa Spinach",
+    "nutrition": "Calories: 23, Carbs: 4g, Fiber: 2.4g, Vitamin C: 50%"
   },
   {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+    "food_name": "New Zealand Spinach",
+    "nutrition": "Calories: 20, Carbs: 3.5g, Fiber: 2.1g, Vitamin C: 36%"
   },
   {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+    "food_name": "Orach",
+    "nutrition": "Calories: 29, Carbs: 6g, Fiber: 3.3g, Vitamin C: 19%"
   },
   {
-    "destination_name": "London",
-    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+    "food_name": "Red Veined Sorrel",
+    "nutrition": "Calories: 22, Carbs: 4g, Fiber: 2.2g, Vitamin C: 47%"
   },
   {
-    "destination_name": "Bangkok",
-    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+    "food_name": "Shiso",
+    "nutrition": "Calories: 37, Carbs: 8g, Fiber: 7g, Vitamin C: 43%"
   },
   {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+    "food_name": "Chervil",
+    "nutrition": "Calories: 43, Carbs: 7.1g, Fiber: 3.9g, Vitamin C: 50%"
   },
   {
-    "destination_name": "Dubai",
-    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+    "food_name": "Salad Burnet",
+    "nutrition": "Calories: 17, Carbs: 3.3g, Fiber: 1.6g, Vitamin C: 15%"
   },
   {
-    "destination_name": "Istanbul",
-    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+    "food_name": "Summer Savory",
+    "nutrition": "Calories: 272, Carbs: 68g, Fiber: 45g, Vitamin C: 50%"
   },
   {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+    "food_name": "Winter Savory",
+    "nutrition": "Calories: 272, Carbs: 68g, Fiber: 45g, Vitamin C: 50%"
   },
   {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+    "food_name": "Sorrel",
+    "nutrition": "Calories: 21, Carbs: 3.2g, Fiber: 2.9g, Vitamin C: 4%"
   },
   {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+    "food_name": "Tatsoi",
+    "nutrition": "Calories: 28, Carbs: 5.5g, Fiber: 1.2g, Vitamin C: 140%"
   },
   {
-    "destination_name": "Hong Kong",
-    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+    "food_name": "Water Spinach",
+    "nutrition": "Calories: 19, Carbs: 3.1g, Fiber: 2g, Vitamin C: 55%"
   },
   {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+    "food_name": "Yardlong Bean",
+    "nutrition": "Calories: 47, Carbs: 9g, Fiber: 2.7g, Vitamin C: 15%"
   },
   {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+    "food_name": "Winged Bean",
+    "nutrition": "Calories: 49, Carbs: 8g, Fiber: 2.2g, Vitamin C: 5%"
   },
   {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+    "food_name": "Yacon",
+    "nutrition": "Calories: 61, Carbs: 14g, Fiber: 1.5g, Vitamin C: 7%"
   },
   {
-    "destination_name": "Kyoto",
-    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+    "food_name": "Jícama",
+    "nutrition": "Calories: 38, Carbs: 9g, Fiber: 4.9g, Vitamin C: 40%"
   },
   {
-    "destination_name": "Marrakech",
-    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+    "food_name": "Nopal",
+    "nutrition": "Calories: 16, Carbs: 3.3g, Fiber: 2.2g, Vitamin C: 13%"
   },
   {
-    "destination_name": "Los Angeles",
-    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+    "food_name": "Chayote",
+    "nutrition": "Calories: 19, Carbs: 4.5g, Fiber: 2g, Vitamin C: 7%"
   },
   {
-    "destination_name": "Bali",
-    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+    "food_name": "Pepino",
+    "nutrition": "Calories: 15, Carbs: 3.2g, Fiber: 1.6g, Vitamin C: 20%"
   },
   {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+    "food_name": "Cherimoya",
+    "nutrition": "Calories: 75, Carbs: 17g, Fiber: 3g, Vitamin C: 20%"
   },
   {
-    "destination_name": "Lisbon",
-    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+    "food_name": "Custard Apple",
+    "nutrition": "Calories: 94, Carbs: 23g, Fiber: 4.4g, Vitamin C: 43%"
   },
   {
-    "destination_name": "Buenos Aires",
-    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+    "food_name": "Pawpaw",
+    "nutrition": "Calories: 80, Carbs: 19g, Fiber: 2.6g, Vitamin C: 30%"
   },
   {
-    "destination_name": "Prague",
-    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+    "food_name": "Breadfruit",
+    "nutrition": "Calories: 103, Carbs: 27g, Fiber: 4.9g, Vitamin C: 29%"
   },
   {
-    "destination_name": "Seoul",
-    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+    "food_name": "Jackfruit",
+    "nutrition": "Calories: 95, Carbs: 24g, Fiber: 1.5g, Vitamin C: 18%"
   },
   {
-    "destination_name": "Athens",
-    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+    "food_name": "Durian",
+    "nutrition": "Calories: 147, Carbs: 27g, Fiber: 3.8g, Vitamin C: 33%"
   },
   {
-    "destination_name": "Cairo",
-    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+    "food_name": "Rambutan",
+    "nutrition": "Calories: 68, Carbs: 16g, Fiber: 0.9g, Vitamin C: 40%"
   },
   {
-    "destination_name": "Florence",
-    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+    "food_name": "Lychee",
+    "nutrition": "Calories: 66, Carbs: 17g, Fiber: 1.3g, Vitamin C: 72%"
   },
   {
-    "destination_name": "Havana",
-    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+    "food_name": "Longan",
+    "nutrition": "Calories: 60, Carbs: 15g, Fiber: 1.1g, Vitamin C: 84%"
   },
   {
-    "destination_name": "Berlin",
-    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+    "food_name": "Mangosteen",
+    "nutrition": "Calories: 73, Carbs: 18g, Fiber: 1.8g, Vitamin C: 12%"
   },
   {
-    "destination_name": "Venice",
-    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+    "food_name": "Salak",
+    "nutrition": "Calories: 82, Carbs: 21g, Fiber: 2.6g, Vitamin C: 8%"
   },
   {
-    "destination_name": "Mexico City",
-    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+    "food_name": "Tamarillo",
+    "nutrition": "Calories: 31, Carbs: 5.7g, Fiber: 3.3g, Vitamin C: 29%"
   },
   {
-    "destination_name": "Madrid",
-    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+    "food_name": "Lucuma",
+    "nutrition": "Calories: 92, Carbs: 23g, Fiber: 2.3g, Vitamin C: 4%"
   },
   {
-    "destination_name": "Munich",
-    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+    "food_name": "Camu Camu",
+    "nutrition": "Calories: 4, Carbs: 0.9g, Fiber: 0.4g, Vitamin C: 600%"
   },
   {
-    "destination_name": "Moscow",
-    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+    "food_name": "Jabuticaba",
+    "nutrition": "Calories: 45, Carbs: 10g, Fiber: 1.6g, Vitamin C: 14%"
   },
   {
-    "destination_name": "Milan",
-    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+    "food_name": "Pitanga",
+    "nutrition": "Calories: 33, Carbs: 7.6g, Fiber: 2.1g, Vitamin C: 40%"
   },
   {
-    "destination_name": "Toronto",
-    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+    "food_name": "Jocote",
+    "nutrition": "Calories: 50, Carbs: 12g, Fiber: 1.2g, Vitamin C: 100%"
   },
   {
-    "destination_name": "Shanghai",
-    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+    "food_name": "Cactus Pear",
+    "nutrition": "Calories: 41, Carbs: 9.6g, Fiber: 3.7g, Vitamin C: 10%"
   },
   {
-    "destination_name": "Beijing",
-    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+    "food_name": "Tamarind",
+    "nutrition": "Calories: 239, Carbs: 62g, Fiber: 5.1g, Vitamin C: 6%"
   },
   {
-    "destination_name": "Vancouver",
-    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+    "food_name": "Gac",
+    "nutrition": "Calories: 36, Carbs: 5.4g, Fiber: 2.2g, Vitamin C: 130%"
   },
   {
-    "destination_name": "Edinburgh",
-    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+    "food_name": "Snake Fruit",
+    "nutrition": "Calories: 82, Carbs: 22g, Fiber: 2.6g, Vitamin C: 8%"
   },
   {
-    "destination_name": "Las Vegas",
-    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+    "food_name": "Soursop",
+    "nutrition": "Calories: 66, Carbs: 16.8g, Fiber: 3.3g, Vitamin C: 34%"
   },
   {
-    "destination_name": "Kuala Lumpur",
-    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+    "food_name": "Sapodilla",
+    "nutrition": "Calories: 83, Carbs: 20g, Fiber: 5g, Vitamin C: 24%"
   },
   {
-    "destination_name": "Dublin",
-    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+    "food_name": "White Sapote",
+    "nutrition": "Calories: 79, Carbs: 19g, Fiber: 3g, Vitamin C: 3%"
   },
   {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+    "food_name": "Black Sapote",
+    "nutrition": "Calories: 76, Carbs: 18g, Fiber: 2.8g, Vitamin C: 25%"
   },
   {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+    "food_name": "Mamey Sapote",
+    "nutrition": "Calories: 124, Carbs: 32g, Fiber: 9g, Vitamin C: 26%"
   },
   {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+    "food_name": "Bignay",
+    "nutrition": "Calories: 69, Carbs: 17g, Fiber: 2.8g, Vitamin C: 4%"
   },
   {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+    "food_name": "Abiu",
+    "nutrition": "Calories: 55, Carbs: 14g, Fiber: 2.4g, Vitamin C: 4%"
   },
   {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+    "food_name": "Ambarella",
+    "nutrition": "Calories: 41, Carbs: 10g, Fiber: 1.3g, Vitamin C: 100%"
   },
   {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+    "food_name": "Canistel",
+    "nutrition": "Calories: 138, Carbs: 36g, Fiber: 5g, Vitamin C: 16%"
   },
   {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+    "food_name": "Cupuacu",
+    "nutrition": "Calories: 93, Carbs: 22g, Fiber: 3.6g, Vitamin C: 4%"
   },
   {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+    "food_name": "Pepino Melon",
+    "nutrition": "Calories: 24, Carbs: 6g, Fiber: 0.8g, Vitamin C: 60%"
   },
   {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+    "food_name": "Starfruit",
+    "nutrition": "Calories: 31, Carbs: 7g, Fiber: 2.8g, Vitamin C: 57%"
   },
   {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+    "food_name": "Passionfruit",
+    "nutrition": "Calories: 97, Carbs: 23g, Fiber: 10g, Vitamin C: 30%"
   },
   {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+    "food_name": "Dragonfruit",
+    "nutrition": "Calories: 60, Carbs: 13g, Fiber: 3g, Vitamin C: 3%"
   },
   {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+    "food_name": "Kiwano",
+    "nutrition": "Calories: 44, Carbs: 8g, Fiber: 3.4g, Vitamin C: 5%"
   },
   {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+    "food_name": "Kumquat",
+    "nutrition": "Calories: 71, Carbs: 16g, Fiber: 6.5g, Vitamin C: 73%"
   },
   {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+    "food_name": "Pummelo",
+    "nutrition": "Calories: 38, Carbs: 9g, Fiber: 1g, Vitamin C: 102%"
   },
   {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+    "food_name": "Calamansi",
+    "nutrition": "Calories: 37, Carbs: 9g, Fiber: 3.5g, Vitamin C: 123%"
   },
   {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+    "food_name": "Ugni",
+    "nutrition": "Calories: 69, Carbs: 17g, Fiber: 2.8g, Vitamin C: 4%"
   },
   {
-    "destination_name": "London",
-    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+    "food_name": "Mango",
+    "nutrition": "Calories: 60, Carbs: 15g, Fiber: 1.6g, Vitamin C: 60%"
   },
   {
-    "destination_name": "Bangkok",
-    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+    "food_name": "Mangosteen",
+    "nutrition": "Calories: 73, Carbs: 18g, Fiber: 1.8g, Vitamin C: 12%"
   },
   {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+    "food_name": "Mangaba",
+    "nutrition": "Calories: 44, Carbs: 9.6g, Fiber: 4.6g, Vitamin C: 45%"
   },
   {
-    "destination_name": "Dubai",
-    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+    "food_name": "Marang",
+    "nutrition": "Calories: 95, Carbs: 24g, Fiber: 1.5g, Vitamin C: 18%"
   },
   {
-    "destination_name": "Istanbul",
-    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+    "food_name": "Miracle Fruit",
+    "nutrition": "Calories: 1, Carbs: 0.2g, Fiber: 0.1g, Vitamin C: 0%"
   },
   {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+    "food_name": "Nance",
+    "nutrition": "Calories: 50, Carbs: 11g, Fiber: 1g, Vitamin C: 35%"
   },
   {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+    "food_name": "Camu Camu",
+    "nutrition": "Calories: 4, Carbs: 0.9g, Fiber: 0.4g, Vitamin C: 600%"
   },
   {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+    "food_name": "Maqui",
+    "nutrition": "Calories: 43, Carbs: 9.6g, Fiber: 4.2g, Vitamin C: 5%"
   },
   {
-    "destination_name": "Hong Kong",
-    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Kyoto",
-    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
-  },
-  {
-    "destination_name": "Marrakech",
-    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
-  },
-  {
-    "destination_name": "Los Angeles",
-    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
-  },
-  {
-    "destination_name": "Bali",
-    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Lisbon",
-    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
-  },
-  {
-    "destination_name": "Buenos Aires",
-    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
-  },
-  {
-    "destination_name": "Prague",
-    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
-  },
-  {
-    "destination_name": "Seoul",
-    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
-  },
-  {
-    "destination_name": "Athens",
-    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
-  },
-  {
-    "destination_name": "Cairo",
-    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
-  },
-  {
-    "destination_name": "Florence",
-    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
-  },
-  {
-    "destination_name": "Havana",
-    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
-  },
-  {
-    "destination_name": "Berlin",
-    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
-  },
-  {
-    "destination_name": "Venice",
-    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
-  },
-  {
-    "destination_name": "Mexico City",
-    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
-  },
-  {
-    "destination_name": "Madrid",
-    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
-  },
-  {
-    "destination_name": "Munich",
-    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
-  },
-  {
-    "destination_name": "Moscow",
-    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
-  },
-  {
-    "destination_name": "Milan",
-    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
-  },
-  {
-    "destination_name": "Toronto",
-    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
-  },
-  {
-    "destination_name": "Shanghai",
-    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
-  },
-  {
-    "destination_name": "Beijing",
-    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
-  },
-  {
-    "destination_name": "Vancouver",
-    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
-  },
-  {
-    "destination_name": "Edinburgh",
-    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
-  },
-  {
-    "destination_name": "Las Vegas",
-    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
-  },
-  {
-    "destination_name": "Kuala Lumpur",
-    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
-  },
-  {
-    "destination_name": "Dublin",
-    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "London",
-    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
-  },
-  {
-    "destination_name": "Bangkok",
-    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Dubai",
-    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
-  },
-  {
-    "destination_name": "Istanbul",
-    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Hong Kong",
-    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Kyoto",
-    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
-  },
-  {
-    "destination_name": "Marrakech",
-    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
-  },
-  {
-    "destination_name": "Los Angeles",
-    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
-  },
-  {
-    "destination_name": "Bali",
-    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Lisbon",
-    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
-  },
-  {
-    "destination_name": "Buenos Aires",
-    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
-  },
-  {
-    "destination_name": "Prague",
-    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
-  },
-  {
-    "destination_name": "Seoul",
-    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
-  },
-  {
-    "destination_name": "Athens",
-    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
-  },
-  {
-    "destination_name": "Cairo",
-    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
-  },
-  {
-    "destination_name": "Florence",
-    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
-  },
-  {
-    "destination_name": "Havana",
-    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
-  },
-  {
-    "destination_name": "Berlin",
-    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
-  },
-  {
-    "destination_name": "Venice",
-    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
-  },
-  {
-    "destination_name": "Mexico City",
-    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
-  },
-  {
-    "destination_name": "Madrid",
-    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
-  },
-  {
-    "destination_name": "Munich",
-    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
-  },
-  {
-    "destination_name": "Moscow",
-    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
-  },
-  {
-    "destination_name": "Milan",
-    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
-  },
-  {
-    "destination_name": "Toronto",
-    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
-  },
-  {
-    "destination_name": "Shanghai",
-    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
-  },
-  {
-    "destination_name": "Beijing",
-    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
-  },
-  {
-    "destination_name": "Vancouver",
-    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
-  },
-  {
-    "destination_name": "Edinburgh",
-    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
-  },
-  {
-    "destination_name": "Las Vegas",
-    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
-  },
-  {
-    "destination_name": "Kuala Lumpur",
-    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
-  },
-  {
-    "destination_name": "Dublin",
-    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "London",
-    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
-  },
-  {
-    "destination_name": "Bangkok",
-    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Dubai",
-    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
-  },
-  {
-    "destination_name": "Istanbul",
-    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Hong Kong",
-    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Kyoto",
-    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
-  },
-  {
-    "destination_name": "Marrakech",
-    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
-  },
-  {
-    "destination_name": "Los Angeles",
-    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
-  },
-  {
-    "destination_name": "Bali",
-    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Lisbon",
-    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
-  },
-  {
-    "destination_name": "Buenos Aires",
-    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
-  },
-  {
-    "destination_name": "Prague",
-    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
-  },
-  {
-    "destination_name": "Seoul",
-    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
-  },
-  {
-    "destination_name": "Athens",
-    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
-  },
-  {
-    "destination_name": "Cairo",
-    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
-  },
-  {
-    "destination_name": "Florence",
-    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
-  },
-  {
-    "destination_name": "Havana",
-    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
-  },
-  {
-    "destination_name": "Berlin",
-    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
-  },
-  {
-    "destination_name": "Venice",
-    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
-  },
-  {
-    "destination_name": "Mexico City",
-    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
-  },
-  {
-    "destination_name": "Madrid",
-    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
-  },
-  {
-    "destination_name": "Munich",
-    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
-  },
-  {
-    "destination_name": "Moscow",
-    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
-  },
-  {
-    "destination_name": "Milan",
-    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
-  },
-  {
-    "destination_name": "Toronto",
-    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
-  },
-  {
-    "destination_name": "Shanghai",
-    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
-  },
-  {
-    "destination_name": "Beijing",
-    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
-  },
-  {
-    "destination_name": "Vancouver",
-    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
-  },
-  {
-    "destination_name": "Edinburgh",
-    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
-  },
-  {
-    "destination_name": "Las Vegas",
-    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
-  },
-  {
-    "destination_name": "Kuala Lumpur",
-    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
-  },
-  {
-    "destination_name": "Dublin",
-    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "London",
-    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
-  },
-  {
-    "destination_name": "Bangkok",
-    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Dubai",
-    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
-  },
-  {
-    "destination_name": "Istanbul",
-    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Hong Kong",
-    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Kyoto",
-    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
-  },
-  {
-    "destination_name": "Marrakech",
-    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
-  },
-  {
-    "destination_name": "Los Angeles",
-    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
-  },
-  {
-    "destination_name": "Bali",
-    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Lisbon",
-    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
-  },
-  {
-    "destination_name": "Buenos Aires",
-    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
-  },
-  {
-    "destination_name": "Prague",
-    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
-  },
-  {
-    "destination_name": "Seoul",
-    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
-  },
-  {
-    "destination_name": "Athens",
-    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
-  },
-  {
-    "destination_name": "Cairo",
-    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
-  },
-  {
-    "destination_name": "Florence",
-    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
-  },
-  {
-    "destination_name": "Havana",
-    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
-  },
-  {
-    "destination_name": "Berlin",
-    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
-  },
-  {
-    "destination_name": "Venice",
-    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
-  },
-  {
-    "destination_name": "Mexico City",
-    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
-  },
-  {
-    "destination_name": "Madrid",
-    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
-  },
-  {
-    "destination_name": "Munich",
-    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
-  },
-  {
-    "destination_name": "Moscow",
-    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
-  },
-  {
-    "destination_name": "Milan",
-    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
-  },
-  {
-    "destination_name": "Toronto",
-    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
-  },
-  {
-    "destination_name": "Shanghai",
-    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
-  },
-  {
-    "destination_name": "Beijing",
-    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
-  },
-  {
-    "destination_name": "Vancouver",
-    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
-  },
-  {
-    "destination_name": "Edinburgh",
-    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
-  },
-  {
-    "destination_name": "Las Vegas",
-    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
-  },
-  {
-    "destination_name": "Kuala Lumpur",
-    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
-  },
-  {
-    "destination_name": "Dublin",
-    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "London",
-    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
-  },
-  {
-    "destination_name": "Bangkok",
-    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Dubai",
-    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
-  },
-  {
-    "destination_name": "Istanbul",
-    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Hong Kong",
-    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Kyoto",
-    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
-  },
-  {
-    "destination_name": "Marrakech",
-    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
-  },
-  {
-    "destination_name": "Los Angeles",
-    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
-  },
-  {
-    "destination_name": "Bali",
-    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Lisbon",
-    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
-  },
-  {
-    "destination_name": "Buenos Aires",
-    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
-  },
-  {
-    "destination_name": "Prague",
-    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
-  },
-  {
-    "destination_name": "Seoul",
-    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
-  },
-  {
-    "destination_name": "Athens",
-    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
-  },
-  {
-    "destination_name": "Cairo",
-    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
-  },
-  {
-    "destination_name": "Florence",
-    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
-  },
-  {
-    "destination_name": "Havana",
-    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
-  },
-  {
-    "destination_name": "Berlin",
-    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
-  },
-  {
-    "destination_name": "Venice",
-    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
-  },
-  {
-    "destination_name": "Mexico City",
-    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
-  },
-  {
-    "destination_name": "Madrid",
-    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
-  },
-  {
-    "destination_name": "Munich",
-    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
-  },
-  {
-    "destination_name": "Moscow",
-    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
-  },
-  {
-    "destination_name": "Milan",
-    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
-  },
-  {
-    "destination_name": "Toronto",
-    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
-  },
-  {
-    "destination_name": "Shanghai",
-    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
-  },
-  {
-    "destination_name": "Beijing",
-    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
-  },
-  {
-    "destination_name": "Vancouver",
-    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
-  },
-  {
-    "destination_name": "Edinburgh",
-    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
-  },
-  {
-    "destination_name": "Las Vegas",
-    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
-  },
-  {
-    "destination_name": "Kuala Lumpur",
-    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
-  },
-  {
-    "destination_name": "Dublin",
-    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Paris",
-    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
-  },
-  {
-    "destination_name": "New York City",
-    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
-  },
-  {
-    "destination_name": "Tokyo",
-    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
-  },
-  {
-    "destination_name": "London",
-    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
-  },
-  {
-    "destination_name": "Bangkok",
-    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Dubai",
-    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
-  },
-  {
-    "destination_name": "Istanbul",
-    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Hong Kong",
-    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rio de Janeiro",
-    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
-  },
-  {
-    "destination_name": "Kyoto",
-    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
-  },
-  {
-    "destination_name": "Marrakech",
-    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
-  },
-  {
-    "destination_name": "Los Angeles",
-    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
-  },
-  {
-    "destination_name": "Bali",
-    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Lisbon",
-    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
-  },
-  {
-    "destination_name": "Buenos Aires",
-    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
-  },
-  {
-    "destination_name": "Prague",
-    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
-  },
-  {
-    "destination_name": "Seoul",
-    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
-  },
-  {
-    "destination_name": "Athens",
-    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
-  },
-  {
-    "destination_name": "Cairo",
-    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
-  },
-  {
-    "destination_name": "Florence",
-    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
-  },
-  {
-    "destination_name": "Havana",
-    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
-  },
-  {
-    "destination_name": "Berlin",
-    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
-  },
-  {
-    "destination_name": "Venice",
-    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
-  },
-  {
-    "destination_name": "Mexico City",
-    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
-  },
-  {
-    "destination_name": "Madrid",
-    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
-  },
-  {
-    "destination_name": "Munich",
-    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
-  },
-  {
-    "destination_name": "Moscow",
-    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
-  },
-  {
-    "destination_name": "Milan",
-    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
-  },
-  {
-    "destination_name": "Toronto",
-    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
-  },
-  {
-    "destination_name": "Shanghai",
-    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
-  },
-  {
-    "destination_name": "Beijing",
-    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
-  },
-  {
-    "destination_name": "Vancouver",
-    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
-  },
-  {
-    "destination_name": "Edinburgh",
-    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
-  },
-  {
-    "destination_name": "Las Vegas",
-    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
-  },
-  {
-    "destination_name": "Kuala Lumpur",
-    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
-  },
-  {
-    "destination_name": "Dublin",
-    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
-  },
-  {
-    "destination_name": "Vienna",
-    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
-  },
-  {
-    "destination_name": "Amsterdam",
-    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
-  },
-  {
-    "destination_name": "Cape Town",
-    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
-  },
-  {
-    "destination_name": "Sydney",
-    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
-  },
-  {
-    "destination_name": "Barcelona",
-    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
-  },
-  {
-    "destination_name": "Singapore",
-    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
-  },
-  {
-    "destination_name": "San Francisco",
-    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
-  },
-  {
-    "destination_name": "Rome",
-    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+    "food_name": "Myrobalan",
+    "nutrition": "Calories: 45, Carbs: 10g, Fiber: 3.1g, Vitamin C: 15%"
   }
 ]
