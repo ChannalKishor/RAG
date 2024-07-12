@@ -3,7 +3,7 @@
 Welcome to **Product Builders** where we dive into the world of generative AI. Today, we are unveiling something truly exciting: a step-by-step tutorial on building your own Chat PDF, which we have lovingly named **Document Genie**.
 
 ## Introduction
-Document Genie is a chatbot built using the RAG (Retrieval-Augmented Generation) framework leveraging the generative AI model Gemini Pro. It processes your PDF documents by breaking them into manageable chunks, creating a searchable vector store, and generating accurate answers to your queries.
+Document RAG Chatbotis a chatbot built using the RAG (Retrieval-Augmented Generation) framework leveraging the generative AI model Gemini Pro. It processes your PDF documents by breaking them into manageable chunks, creating a searchable vector store, and generating accurate answers to your queries.
 
 ## Features
 - **Enter your Google API Key**: Securely input your API key.
