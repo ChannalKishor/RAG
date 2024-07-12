@@ -1,4 +1,4 @@
-# Document Genie - A Generative AI PDF Chatbot
+# Assignment  - RAG Chatbot
 
 Welcome to **Product Builders** where we dive into the world of generative AI. Today, we are unveiling something truly exciting: a step-by-step tutorial on building your own Chat PDF, which we have lovingly named **Document Genie**.
 
