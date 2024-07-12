@@ -1,339 +1,2002 @@
 [
-    {
-      "Name": "John Smith",
-      "Age": 34,
-      "Salary": 75000,
-      "Gender": "Male",
-      "Department": "Engineering"
-    },
-    {
-      "Name": "Jane Doe",
-      "Age": 28,
-      "Salary": 68000,
-      "Gender": "Female",
-      "Department": "Marketing"
-    },
-    {
-      "Name": "Michael Johnson",
-      "Age": 45,
-      "Salary": 92000,
-      "Gender": "Male",
-      "Department": "Sales"
-    },
-    {
-      "Name": "Emily Davis",
-      "Age": 32,
-      "Salary": 74000,
-      "Gender": "Female",
-      "Department": "Human Resources"
-    },
-    {
-      "Name": "David Wilson",
-      "Age": 29,
-      "Salary": 67000,
-      "Gender": "Male",
-      "Department": "Engineering"
-    },
-    {
-      "Name": "Sophia Martinez",
-      "Age": 26,
-      "Salary": 63000,
-      "Gender": "Female",
-      "Department": "Customer Support"
-    },
-    {
-      "Name": "James Brown",
-      "Age": 40,
-      "Salary": 88000,
-      "Gender": "Male",
-      "Department": "Finance"
-    },
-    {
-      "Name": "Olivia Miller",
-      "Age": 31,
-      "Salary": 71000,
-      "Gender": "Female",
-      "Department": "Legal"
-    },
-    {
-      "Name": "William Taylor",
-      "Age": 38,
-      "Salary": 81000,
-      "Gender": "Male",
-      "Department": "IT"
-    },
-    {
-      "Name": "Isabella Anderson",
-      "Age": 27,
-      "Salary": 66000,
-      "Gender": "Female",
-      "Department": "Research and Development"
-    },
-    {
-      "Name": "Joshua Moore",
-      "Age": 33,
-      "Salary": 73000,
-      "Gender": "Male",
-      "Department": "Engineering"
-    },
-    {
-      "Name": "Charlotte Thomas",
-      "Age": 30,
-      "Salary": 70000,
-      "Gender": "Female",
-      "Department": "Marketing"
-    },
-    {
-      "Name": "Daniel Jackson",
-      "Age": 44,
-      "Salary": 90000,
-      "Gender": "Male",
-      "Department": "Sales"
-    },
-    {
-      "Name": "Mia White",
-      "Age": 25,
-      "Salary": 62000,
-      "Gender": "Female",
-      "Department": "Customer Support"
-    },
-    {
-      "Name": "Matthew Harris",
-      "Age": 36,
-      "Salary": 79000,
-      "Gender": "Male",
-      "Department": "Finance"
-    },
-    {
-      "Name": "Ava Lewis",
-      "Age": 29,
-      "Salary": 68000,
-      "Gender": "Female",
-      "Department": "Human Resources"
-    },
-    {
-      "Name": "Joseph Walker",
-      "Age": 41,
-      "Salary": 85000,
-      "Gender": "Male",
-      "Department": "Legal"
-    },
-    {
-      "Name": "Abigail Robinson",
-      "Age": 34,
-      "Salary": 72000,
-      "Gender": "Female",
-      "Department": "Research and Development"
-    },
-    {
-      "Name": "Lucas Young",
-      "Age": 39,
-      "Salary": 82000,
-      "Gender": "Male",
-      "Department": "IT"
-    },
-    {
-      "Name": "Amelia King",
-      "Age": 28,
-      "Salary": 67000,
-      "Gender": "Female",
-      "Department": "Engineering"
-    },
-    {
-      "Name": "Logan Wright",
-      "Age": 42,
-      "Salary": 87000,
-      "Gender": "Male",
-      "Department": "Sales"
-    },
-    {
-      "Name": "Evelyn Green",
-      "Age": 26,
-      "Salary": 64000,
-      "Gender": "Female",
-      "Department": "Marketing"
-    },
-    {
-      "Name": "Benjamin Scott",
-      "Age": 35,
-      "Salary": 76000,
-      "Gender": "Male",
-      "Department": "Finance"
-    },
-    {
-      "Name": "Harper Adams",
-      "Age": 32,
-      "Salary": 70000,
-      "Gender": "Female",
-      "Department": "Human Resources"
-    },
-    {
-      "Name": "Mason Baker",
-      "Age": 37,
-      "Salary": 78000,
-      "Gender": "Male",
-      "Department": "IT"
-    },
-    {
-      "Name": "Ella Gonzalez",
-      "Age": 31,
-      "Salary": 71000,
-      "Gender": "Female",
-      "Department": "Legal"
-    },
-    {
-      "Name": "Alexander Nelson",
-      "Age": 44,
-      "Salary": 90000,
-      "Gender": "Male",
-      "Department": "Research and Development"
-    },
-    {
-      "Name": "Scarlett Carter",
-      "Age": 27,
-      "Salary": 66000,
-      "Gender": "Female",
-      "Department": "Customer Support"
-    },
-    {
-      "Name": "Henry Mitchell",
-      "Age": 34,
-      "Salary": 74000,
-      "Gender": "Male",
-      "Department": "Engineering"
-    },
-    {
-      "Name": "Grace Perez",
-      "Age": 29,
-      "Salary": 68000,
-      "Gender": "Female",
-      "Department": "Marketing"
-    },
-    {
-      "Name": "Liam Roberts",
-      "Age": 39,
-      "Salary": 83000,
-      "Gender": "Male",
-      "Department": "Sales"
-    },
-    {
-      "Name": "Sofia Turner",
-      "Age": 25,
-      "Salary": 62000,
-      "Gender": "Female",
-      "Department": "Customer Support"
-    },
-    {
-      "Name": "James Phillips",
-      "Age": 41,
-      "Salary": 86000,
-      "Gender": "Male",
-      "Department": "Finance"
-    },
-    {
-      "Name": "Victoria Campbell",
-      "Age": 28,
-      "Salary": 67000,
-      "Gender": "Female",
-      "Department": "Human Resources"
-    },
-    {
-      "Name": "Oliver Parker",
-      "Age": 37,
-      "Salary": 78000,
-      "Gender": "Male",
-      "Department": "IT"
-    },
-    {
-      "Name": "Chloe Evans",
-      "Age": 32,
-      "Salary": 71000,
-      "Gender": "Female",
-      "Department": "Legal"
-    },
-    {
-      "Name": "Ethan Edwards",
-      "Age": 45,
-      "Salary": 93000,
-      "Gender": "Male",
-      "Department": "Research and Development"
-    },
-    {
-      "Name": "Lily Collins",
-      "Age": 26,
-      "Salary": 63000,
-      "Gender": "Female",
-      "Department": "Customer Support"
-    },
-    {
-      "Name": "Jack Stewart",
-      "Age": 35,
-      "Salary": 76000,
-      "Gender": "Male",
-      "Department": "Engineering"
-    },
-    {
-      "Name": "Zoe Sanchez",
-      "Age": 29,
-      "Salary": 68000,
-      "Gender": "Female",
-      "Department": "Marketing"
-    },
-    {
-      "Name": "Samuel Morris",
-      "Age": 40,
-      "Salary": 88000,
-      "Gender": "Male",
-      "Department": "Sales"
-    },
-    {
-      "Name": "Natalie Rogers",
-      "Age": 30,
-      "Salary": 70000,
-      "Gender": "Female",
-      "Department": "Human Resources"
-    },
-    {
-      "Name": "David Reed",
-      "Age": 43,
-      "Salary": 89000,
-      "Gender": "Male",
-      "Department": "Finance"
-    },
-    {
-      "Name": "Audrey Cook",
-      "Age": 28,
-      "Salary": 67000,
-      "Gender": "Female",
-      "Department": "Engineering"
-    },
-    {
-      "Name": "Jackson Brooks",
-      "Age": 38,
-      "Salary": 82000,
-      "Gender": "Male",
-      "Department": "IT"
-    },
-    {
-      "Name": "Hannah Murphy",
-      "Age": 31,
-      "Salary": 71000,
-      "Gender": "Female",
-      "Department": "Legal"
-    },
-    {
-      "Name": "Gabriel Bailey",
-      "Age": 46,
-      "Salary": 95000,
-      "Gender": "Male",
-      "Department": "Research and Development"
-    },
-    {
-      "Name": "Eleanor Rivera",
-      "Age": 27,
-      "Salary": 66000,
-      "Gender": "Female",
-      "Department": "Customer Support"
-    }
-
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "London",
+    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+  },
+  {
+    "destination_name": "Bangkok",
+    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Dubai",
+    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+  },
+  {
+    "destination_name": "Istanbul",
+    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Hong Kong",
+    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Kyoto",
+    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+  },
+  {
+    "destination_name": "Marrakech",
+    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+  },
+  {
+    "destination_name": "Los Angeles",
+    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+  },
+  {
+    "destination_name": "Bali",
+    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Lisbon",
+    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+  },
+  {
+    "destination_name": "Buenos Aires",
+    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+  },
+  {
+    "destination_name": "Prague",
+    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+  },
+  {
+    "destination_name": "Seoul",
+    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+  },
+  {
+    "destination_name": "Athens",
+    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+  },
+  {
+    "destination_name": "Cairo",
+    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+  },
+  {
+    "destination_name": "Florence",
+    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+  },
+  {
+    "destination_name": "Havana",
+    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+  },
+  {
+    "destination_name": "Berlin",
+    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+  },
+  {
+    "destination_name": "Venice",
+    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+  },
+  {
+    "destination_name": "Mexico City",
+    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+  },
+  {
+    "destination_name": "Madrid",
+    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+  },
+  {
+    "destination_name": "Munich",
+    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+  },
+  {
+    "destination_name": "Moscow",
+    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+  },
+  {
+    "destination_name": "Milan",
+    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+  },
+  {
+    "destination_name": "Toronto",
+    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+  },
+  {
+    "destination_name": "Shanghai",
+    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+  },
+  {
+    "destination_name": "Beijing",
+    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+  },
+  {
+    "destination_name": "Vancouver",
+    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+  },
+  {
+    "destination_name": "Edinburgh",
+    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+  },
+  {
+    "destination_name": "Las Vegas",
+    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+  },
+  {
+    "destination_name": "Kuala Lumpur",
+    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+  },
+  {
+    "destination_name": "Dublin",
+    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "London",
+    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+  },
+  {
+    "destination_name": "Bangkok",
+    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Dubai",
+    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+  },
+  {
+    "destination_name": "Istanbul",
+    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Hong Kong",
+    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Kyoto",
+    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+  },
+  {
+    "destination_name": "Marrakech",
+    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+  },
+  {
+    "destination_name": "Los Angeles",
+    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+  },
+  {
+    "destination_name": "Bali",
+    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Lisbon",
+    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+  },
+  {
+    "destination_name": "Buenos Aires",
+    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+  },
+  {
+    "destination_name": "Prague",
+    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+  },
+  {
+    "destination_name": "Seoul",
+    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+  },
+  {
+    "destination_name": "Athens",
+    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+  },
+  {
+    "destination_name": "Cairo",
+    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+  },
+  {
+    "destination_name": "Florence",
+    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+  },
+  {
+    "destination_name": "Havana",
+    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+  },
+  {
+    "destination_name": "Berlin",
+    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+  },
+  {
+    "destination_name": "Venice",
+    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+  },
+  {
+    "destination_name": "Mexico City",
+    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+  },
+  {
+    "destination_name": "Madrid",
+    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+  },
+  {
+    "destination_name": "Munich",
+    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+  },
+  {
+    "destination_name": "Moscow",
+    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+  },
+  {
+    "destination_name": "Milan",
+    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+  },
+  {
+    "destination_name": "Toronto",
+    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+  },
+  {
+    "destination_name": "Shanghai",
+    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+  },
+  {
+    "destination_name": "Beijing",
+    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+  },
+  {
+    "destination_name": "Vancouver",
+    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+  },
+  {
+    "destination_name": "Edinburgh",
+    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+  },
+  {
+    "destination_name": "Las Vegas",
+    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+  },
+  {
+    "destination_name": "Kuala Lumpur",
+    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+  },
+  {
+    "destination_name": "Dublin",
+    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "London",
+    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+  },
+  {
+    "destination_name": "Bangkok",
+    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Dubai",
+    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+  },
+  {
+    "destination_name": "Istanbul",
+    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Hong Kong",
+    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Kyoto",
+    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+  },
+  {
+    "destination_name": "Marrakech",
+    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+  },
+  {
+    "destination_name": "Los Angeles",
+    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+  },
+  {
+    "destination_name": "Bali",
+    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Lisbon",
+    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+  },
+  {
+    "destination_name": "Buenos Aires",
+    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+  },
+  {
+    "destination_name": "Prague",
+    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+  },
+  {
+    "destination_name": "Seoul",
+    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+  },
+  {
+    "destination_name": "Athens",
+    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+  },
+  {
+    "destination_name": "Cairo",
+    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+  },
+  {
+    "destination_name": "Florence",
+    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+  },
+  {
+    "destination_name": "Havana",
+    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+  },
+  {
+    "destination_name": "Berlin",
+    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+  },
+  {
+    "destination_name": "Venice",
+    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+  },
+  {
+    "destination_name": "Mexico City",
+    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+  },
+  {
+    "destination_name": "Madrid",
+    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+  },
+  {
+    "destination_name": "Munich",
+    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+  },
+  {
+    "destination_name": "Moscow",
+    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+  },
+  {
+    "destination_name": "Milan",
+    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+  },
+  {
+    "destination_name": "Toronto",
+    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+  },
+  {
+    "destination_name": "Shanghai",
+    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+  },
+  {
+    "destination_name": "Beijing",
+    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+  },
+  {
+    "destination_name": "Vancouver",
+    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+  },
+  {
+    "destination_name": "Edinburgh",
+    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+  },
+  {
+    "destination_name": "Las Vegas",
+    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+  },
+  {
+    "destination_name": "Kuala Lumpur",
+    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+  },
+  {
+    "destination_name": "Dublin",
+    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "London",
+    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+  },
+  {
+    "destination_name": "Bangkok",
+    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Dubai",
+    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+  },
+  {
+    "destination_name": "Istanbul",
+    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Hong Kong",
+    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Kyoto",
+    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+  },
+  {
+    "destination_name": "Marrakech",
+    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+  },
+  {
+    "destination_name": "Los Angeles",
+    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+  },
+  {
+    "destination_name": "Bali",
+    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Lisbon",
+    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+  },
+  {
+    "destination_name": "Buenos Aires",
+    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+  },
+  {
+    "destination_name": "Prague",
+    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+  },
+  {
+    "destination_name": "Seoul",
+    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+  },
+  {
+    "destination_name": "Athens",
+    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+  },
+  {
+    "destination_name": "Cairo",
+    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+  },
+  {
+    "destination_name": "Florence",
+    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+  },
+  {
+    "destination_name": "Havana",
+    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+  },
+  {
+    "destination_name": "Berlin",
+    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+  },
+  {
+    "destination_name": "Venice",
+    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+  },
+  {
+    "destination_name": "Mexico City",
+    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+  },
+  {
+    "destination_name": "Madrid",
+    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+  },
+  {
+    "destination_name": "Munich",
+    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+  },
+  {
+    "destination_name": "Moscow",
+    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+  },
+  {
+    "destination_name": "Milan",
+    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+  },
+  {
+    "destination_name": "Toronto",
+    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+  },
+  {
+    "destination_name": "Shanghai",
+    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+  },
+  {
+    "destination_name": "Beijing",
+    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+  },
+  {
+    "destination_name": "Vancouver",
+    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+  },
+  {
+    "destination_name": "Edinburgh",
+    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+  },
+  {
+    "destination_name": "Las Vegas",
+    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+  },
+  {
+    "destination_name": "Kuala Lumpur",
+    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+  },
+  {
+    "destination_name": "Dublin",
+    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "London",
+    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+  },
+  {
+    "destination_name": "Bangkok",
+    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Dubai",
+    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+  },
+  {
+    "destination_name": "Istanbul",
+    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Hong Kong",
+    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Kyoto",
+    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+  },
+  {
+    "destination_name": "Marrakech",
+    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+  },
+  {
+    "destination_name": "Los Angeles",
+    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+  },
+  {
+    "destination_name": "Bali",
+    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Lisbon",
+    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+  },
+  {
+    "destination_name": "Buenos Aires",
+    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+  },
+  {
+    "destination_name": "Prague",
+    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+  },
+  {
+    "destination_name": "Seoul",
+    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+  },
+  {
+    "destination_name": "Athens",
+    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+  },
+  {
+    "destination_name": "Cairo",
+    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+  },
+  {
+    "destination_name": "Florence",
+    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+  },
+  {
+    "destination_name": "Havana",
+    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+  },
+  {
+    "destination_name": "Berlin",
+    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+  },
+  {
+    "destination_name": "Venice",
+    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+  },
+  {
+    "destination_name": "Mexico City",
+    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+  },
+  {
+    "destination_name": "Madrid",
+    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+  },
+  {
+    "destination_name": "Munich",
+    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+  },
+  {
+    "destination_name": "Moscow",
+    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+  },
+  {
+    "destination_name": "Milan",
+    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+  },
+  {
+    "destination_name": "Toronto",
+    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+  },
+  {
+    "destination_name": "Shanghai",
+    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+  },
+  {
+    "destination_name": "Beijing",
+    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+  },
+  {
+    "destination_name": "Vancouver",
+    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+  },
+  {
+    "destination_name": "Edinburgh",
+    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+  },
+  {
+    "destination_name": "Las Vegas",
+    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+  },
+  {
+    "destination_name": "Kuala Lumpur",
+    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+  },
+  {
+    "destination_name": "Dublin",
+    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "London",
+    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+  },
+  {
+    "destination_name": "Bangkok",
+    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Dubai",
+    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+  },
+  {
+    "destination_name": "Istanbul",
+    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Hong Kong",
+    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Kyoto",
+    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+  },
+  {
+    "destination_name": "Marrakech",
+    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+  },
+  {
+    "destination_name": "Los Angeles",
+    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+  },
+  {
+    "destination_name": "Bali",
+    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Lisbon",
+    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+  },
+  {
+    "destination_name": "Buenos Aires",
+    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+  },
+  {
+    "destination_name": "Prague",
+    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+  },
+  {
+    "destination_name": "Seoul",
+    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+  },
+  {
+    "destination_name": "Athens",
+    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+  },
+  {
+    "destination_name": "Cairo",
+    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+  },
+  {
+    "destination_name": "Florence",
+    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+  },
+  {
+    "destination_name": "Havana",
+    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+  },
+  {
+    "destination_name": "Berlin",
+    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+  },
+  {
+    "destination_name": "Venice",
+    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+  },
+  {
+    "destination_name": "Mexico City",
+    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+  },
+  {
+    "destination_name": "Madrid",
+    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+  },
+  {
+    "destination_name": "Munich",
+    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+  },
+  {
+    "destination_name": "Moscow",
+    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+  },
+  {
+    "destination_name": "Milan",
+    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+  },
+  {
+    "destination_name": "Toronto",
+    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+  },
+  {
+    "destination_name": "Shanghai",
+    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+  },
+  {
+    "destination_name": "Beijing",
+    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+  },
+  {
+    "destination_name": "Vancouver",
+    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+  },
+  {
+    "destination_name": "Edinburgh",
+    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+  },
+  {
+    "destination_name": "Las Vegas",
+    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+  },
+  {
+    "destination_name": "Kuala Lumpur",
+    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+  },
+  {
+    "destination_name": "Dublin",
+    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "London",
+    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+  },
+  {
+    "destination_name": "Bangkok",
+    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Dubai",
+    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+  },
+  {
+    "destination_name": "Istanbul",
+    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Hong Kong",
+    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Kyoto",
+    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+  },
+  {
+    "destination_name": "Marrakech",
+    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+  },
+  {
+    "destination_name": "Los Angeles",
+    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+  },
+  {
+    "destination_name": "Bali",
+    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Lisbon",
+    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+  },
+  {
+    "destination_name": "Buenos Aires",
+    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+  },
+  {
+    "destination_name": "Prague",
+    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+  },
+  {
+    "destination_name": "Seoul",
+    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+  },
+  {
+    "destination_name": "Athens",
+    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+  },
+  {
+    "destination_name": "Cairo",
+    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+  },
+  {
+    "destination_name": "Florence",
+    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+  },
+  {
+    "destination_name": "Havana",
+    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+  },
+  {
+    "destination_name": "Berlin",
+    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+  },
+  {
+    "destination_name": "Venice",
+    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+  },
+  {
+    "destination_name": "Mexico City",
+    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+  },
+  {
+    "destination_name": "Madrid",
+    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+  },
+  {
+    "destination_name": "Munich",
+    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+  },
+  {
+    "destination_name": "Moscow",
+    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+  },
+  {
+    "destination_name": "Milan",
+    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+  },
+  {
+    "destination_name": "Toronto",
+    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+  },
+  {
+    "destination_name": "Shanghai",
+    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+  },
+  {
+    "destination_name": "Beijing",
+    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+  },
+  {
+    "destination_name": "Vancouver",
+    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+  },
+  {
+    "destination_name": "Edinburgh",
+    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+  },
+  {
+    "destination_name": "Las Vegas",
+    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+  },
+  {
+    "destination_name": "Kuala Lumpur",
+    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+  },
+  {
+    "destination_name": "Dublin",
+    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "London",
+    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+  },
+  {
+    "destination_name": "Bangkok",
+    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Dubai",
+    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+  },
+  {
+    "destination_name": "Istanbul",
+    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Hong Kong",
+    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Kyoto",
+    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+  },
+  {
+    "destination_name": "Marrakech",
+    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+  },
+  {
+    "destination_name": "Los Angeles",
+    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+  },
+  {
+    "destination_name": "Bali",
+    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Lisbon",
+    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+  },
+  {
+    "destination_name": "Buenos Aires",
+    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+  },
+  {
+    "destination_name": "Prague",
+    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+  },
+  {
+    "destination_name": "Seoul",
+    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+  },
+  {
+    "destination_name": "Athens",
+    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+  },
+  {
+    "destination_name": "Cairo",
+    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+  },
+  {
+    "destination_name": "Florence",
+    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+  },
+  {
+    "destination_name": "Havana",
+    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+  },
+  {
+    "destination_name": "Berlin",
+    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+  },
+  {
+    "destination_name": "Venice",
+    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+  },
+  {
+    "destination_name": "Mexico City",
+    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+  },
+  {
+    "destination_name": "Madrid",
+    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+  },
+  {
+    "destination_name": "Munich",
+    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+  },
+  {
+    "destination_name": "Moscow",
+    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+  },
+  {
+    "destination_name": "Milan",
+    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+  },
+  {
+    "destination_name": "Toronto",
+    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+  },
+  {
+    "destination_name": "Shanghai",
+    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+  },
+  {
+    "destination_name": "Beijing",
+    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+  },
+  {
+    "destination_name": "Vancouver",
+    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+  },
+  {
+    "destination_name": "Edinburgh",
+    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+  },
+  {
+    "destination_name": "Las Vegas",
+    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+  },
+  {
+    "destination_name": "Kuala Lumpur",
+    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+  },
+  {
+    "destination_name": "Dublin",
+    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Paris",
+    "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, French Cuisine"
+  },
+  {
+    "destination_name": "New York City",
+    "highlights": "Statue of Liberty, Central Park, Times Square, Broadway Shows"
+  },
+  {
+    "destination_name": "Tokyo",
+    "highlights": "Shibuya Crossing, Tokyo Tower, Sens\u014d-ji Temple, Sushi"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  },
+  {
+    "destination_name": "London",
+    "highlights": "Big Ben, Tower of London, Buckingham Palace, British Museum"
+  },
+  {
+    "destination_name": "Bangkok",
+    "highlights": "Grand Palace, Wat Arun, Floating Markets, Thai Street Food"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Dubai",
+    "highlights": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari"
+  },
+  {
+    "destination_name": "Istanbul",
+    "highlights": "Hagia Sophia, Blue Mosque, Grand Bazaar, Turkish Cuisine"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Hong Kong",
+    "highlights": "Victoria Peak, Disneyland, Tsim Sha Tsui Promenade, Dim Sum"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rio de Janeiro",
+    "highlights": "Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain, Samba"
+  },
+  {
+    "destination_name": "Kyoto",
+    "highlights": "Fushimi Inari Shrine, Kinkaku-ji, Arashiyama Bamboo Grove, Kaiseki Cuisine"
+  },
+  {
+    "destination_name": "Marrakech",
+    "highlights": "Jemaa el-Fnaa, Bahia Palace, Majorelle Garden, Moroccan Cuisine"
+  },
+  {
+    "destination_name": "Los Angeles",
+    "highlights": "Hollywood Sign, Universal Studios, Santa Monica Pier, Mexican Food"
+  },
+  {
+    "destination_name": "Bali",
+    "highlights": "Ubud Monkey Forest, Tanah Lot, Seminyak Beach, Balinese Cuisine"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Lisbon",
+    "highlights": "Bel\u00e9m Tower, Jer\u00f3nimos Monastery, Alfama District, Pastel de Nata"
+  },
+  {
+    "destination_name": "Buenos Aires",
+    "highlights": "Recoleta Cemetery, La Boca, Teatro Col\u00f3n, Argentine Steak"
+  },
+  {
+    "destination_name": "Prague",
+    "highlights": "Prague Castle, Charles Bridge, Old Town Square, Czech Beer"
+  },
+  {
+    "destination_name": "Seoul",
+    "highlights": "Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Korean BBQ"
+  },
+  {
+    "destination_name": "Athens",
+    "highlights": "Acropolis, Parthenon, Plaka, Greek Cuisine"
+  },
+  {
+    "destination_name": "Cairo",
+    "highlights": "Pyramids of Giza, Egyptian Museum, Khan el-Khalili, Egyptian Cuisine"
+  },
+  {
+    "destination_name": "Florence",
+    "highlights": "Uffizi Gallery, Florence Cathedral, Ponte Vecchio, Tuscan Cuisine"
+  },
+  {
+    "destination_name": "Havana",
+    "highlights": "Old Havana, Malec\u00f3n, El Capitolio, Cuban Cuisine"
+  },
+  {
+    "destination_name": "Berlin",
+    "highlights": "Brandenburg Gate, Berlin Wall, Museum Island, German Beer"
+  },
+  {
+    "destination_name": "Venice",
+    "highlights": "St. Mark's Basilica, Grand Canal, Rialto Bridge, Venetian Cuisine"
+  },
+  {
+    "destination_name": "Mexico City",
+    "highlights": "Z\u00f3calo, Frida Kahlo Museum, Chapultepec Park, Tacos"
+  },
+  {
+    "destination_name": "Madrid",
+    "highlights": "Prado Museum, Royal Palace, Retiro Park, Spanish Tapas"
+  },
+  {
+    "destination_name": "Munich",
+    "highlights": "Marienplatz, Nymphenburg Palace, English Garden, Bavarian Beer"
+  },
+  {
+    "destination_name": "Moscow",
+    "highlights": "Red Square, Kremlin, St. Basil's Cathedral, Russian Cuisine"
+  },
+  {
+    "destination_name": "Milan",
+    "highlights": "Duomo di Milano, Sforza Castle, La Scala, Italian Fashion"
+  },
+  {
+    "destination_name": "Toronto",
+    "highlights": "CN Tower, Royal Ontario Museum, Distillery District, Canadian Cuisine"
+  },
+  {
+    "destination_name": "Shanghai",
+    "highlights": "The Bund, Yu Garden, Oriental Pearl Tower, Shanghainese Cuisine"
+  },
+  {
+    "destination_name": "Beijing",
+    "highlights": "Great Wall, Forbidden City, Tiananmen Square, Peking Duck"
+  },
+  {
+    "destination_name": "Vancouver",
+    "highlights": "Stanley Park, Granville Island, Capilano Suspension Bridge, Seafood"
+  },
+  {
+    "destination_name": "Edinburgh",
+    "highlights": "Edinburgh Castle, Royal Mile, Arthur's Seat, Scottish Whisky"
+  },
+  {
+    "destination_name": "Las Vegas",
+    "highlights": "Las Vegas Strip, Bellagio Fountains, Fremont Street, Casinos"
+  },
+  {
+    "destination_name": "Kuala Lumpur",
+    "highlights": "Petronas Towers, Batu Caves, Bukit Bintang, Malaysian Street Food"
+  },
+  {
+    "destination_name": "Dublin",
+    "highlights": "Guinness Storehouse, Trinity College, Temple Bar, Irish Pubs"
+  },
+  {
+    "destination_name": "Vienna",
+    "highlights": "Sch\u00f6nbrunn Palace, St. Stephen's Cathedral, Hofburg Palace, Austrian Pastries"
+  },
+  {
+    "destination_name": "Amsterdam",
+    "highlights": "Canal Cruise, Van Gogh Museum, Anne Frank House, Dutch Cheese"
+  },
+  {
+    "destination_name": "Cape Town",
+    "highlights": "Table Mountain, Robben Island, V&A Waterfront, South African Wine"
+  },
+  {
+    "destination_name": "Sydney",
+    "highlights": "Sydney Opera House, Sydney Harbour Bridge, Bondi Beach, Australian Wildlife"
+  },
+  {
+    "destination_name": "Barcelona",
+    "highlights": "Sagrada Fam\u00edlia, Park G\u00fcell, Gothic Quarter, Tapas"
+  },
+  {
+    "destination_name": "Singapore",
+    "highlights": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, Hawker Centers"
+  },
+  {
+    "destination_name": "San Francisco",
+    "highlights": "Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, Cable Cars"
+  },
+  {
+    "destination_name": "Rome",
+    "highlights": "Colosseum, Vatican City, Pantheon, Italian Cuisine"
+  }
 ]

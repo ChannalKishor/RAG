@@ -1,23 +1,22 @@
 import os
 import json
 import streamlit as st
-from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.vectorstores import Pinecone
+from langchain.embeddings import OpenAIEmbeddings
 from pinecone import Pinecone as PineconeClient, ServerlessSpec
+from dotenv import load_dotenv
 
-# Set environment variables
-os.environ['PINECONE_API_KEY'] = "38ce1c45-3a20-4640-941b-896256951d37"
-os.environ['OPENAI_API_KEY'] = "sk-proj-wGHgCJ4COhZNslXtIiLJT3BlbkFJzj9vqNXkS8Qi3GiAvLBD"
- 
+# Load environment variables from .env file
+load_dotenv()
+
 # Get API keys from environment variables
 pinecone_api_key = os.getenv('PINECONE_API_KEY')
 openai_api_key = os.getenv('OPENAI_API_KEY')
- 
+
 # Initialize Pinecone
 pc = PineconeClient(api_key=pinecone_api_key)
- 
+
 # Define index name and check if it exists
-index_name = "symptoms-remedies-index"
+index_name = "travel-destination-index"
 if index_name not in pc.list_indexes().names():
     pc.create_index(
         name=index_name,
@@ -28,72 +27,66 @@ if index_name not in pc.list_indexes().names():
             region='us-east-1'
         )
     )
- 
+
 # Connect to the index
 index = pc.Index(index_name)
- 
+
 # Initialize OpenAI embeddings
 embeddings = OpenAIEmbeddings(api_key=openai_api_key)
- 
+
 # Load the JSON data from file and upsert to Pinecone if index is empty
 if index.describe_index_stats()['total_vector_count'] == 0:
-    with open("C:\Users\Kishor\Desktop\Prompt Engineering\Assignment\RAG\data.json", "r") as file:
+    with open("destinations.json", "r") as file:
         data = json.load(file)
- 
-    # Function to convert symptom and remedy to vector
-    def get_vector(symptom, remedy):
-        text = f"Symptom: {symptom}. Remedy: {remedy}"
-        return embeddings.embed_documents([text])[0]
- 
+
+    # Function to convert destination name and highlights to vector
+    def get_vector(destination_name, highlights):
+        text = f"Destination: {destination_name}. Highlights: {highlights}"
+        return embeddings.embed_query(text)
+
     # Prepare vectors and metadata
     vectors = []
     for i, item in enumerate(data):
-        symptom = item['symptom']
-        remedy = item['remedy']
-        vector = get_vector(symptom, remedy)
+        destination_name = item['destination_name']
+        highlights = item['highlights']
+        vector = get_vector(destination_name, highlights)
         vectors.append({
             "id": str(i),
             "values": vector,
-            "metadata": {"symptom": symptom, "remedy": remedy}
+            "metadata": {"destination_name": destination_name, "highlights": highlights}
         })
- 
+
     # Upsert vectors to Pinecone with namespace
-    namespace = "symptoms-remedies-namespace"
+    namespace = "travel-destination-namespace"
     index.upsert(vectors=vectors, namespace=namespace)
- 
-# Initialize LangChain components
-vectorstore = Pinecone(index=index, embedding=embeddings, text_key='Name', namespace="employee-names-namespace")
- 
-# Create a retriever
-retriever = vectorstore.as_retriever()
- 
-# ... (keep your existing imports and setup code)
- 
-# ... (keep your existing imports and setup code)
- 
+
+# Helper function to format highlights information
+def format_highlights(highlights_str):
+    highlights_items = highlights_str.split(', ')
+    return '\n'.join(highlights_items)
+
 # Streamlit app
-st.title("RAG-Based Chatbot for Symptoms and Remedies")
-st.write("Enter your symptom below and get a remedy suggestion.")
- 
+st.title("Travel Destination Recommendation System")
+st.write("Enter a destination name below to get highlights information.")
+
 # User input
-user_input = st.text_input("Symptom")
- 
+user_input = st.text_input("Destination Name")
+
 if user_input:
-    # Retrieve documents based on the symptom
-    result = retriever.get_relevant_documents(user_input)
- 
-    # Check if any of the retrieved documents contain relevant information
-    found_match = False
-    for doc in result:
-        if any(symptom.lower() in user_input.lower() for symptom in doc.page_content.split()):
-            symptom = doc.page_content
-            remedy = doc.metadata.get('remedy', "No remedy found.")
-           
-            st.write("*Relevant Information:*")
-            st.write(f"*Symptom:* {symptom}")
-            st.write(f"*Remedy:* {remedy}")
-            found_match = True
-            break
- 
-    if not found_match:
-        st.write("*Response:* I'm sorry, but I couldn't find any relevant information for that symptom.")
+    # Query Pinecone
+    query_vector = embeddings.embed_query(user_input)
+    results = index.query(vector=query_vector, top_k=1, include_metadata=True, namespace="travel-destination-namespace")
+
+    # Set a similarity threshold
+    similarity_threshold = 0.75
+
+    if results['matches'] and results['matches'][0]['score'] > similarity_threshold:
+        destination_info = results['matches'][0]['metadata']
+        destination_name = destination_info.get('destination_name', 'Unknown destination')
+        highlights = destination_info.get('highlights', 'No highlights information found.')
+
+        st.write(f"Destination Name: {destination_name}")
+        st.write("Highlights:")
+        st.write(format_highlights(highlights))
+    else:
+        st.write("Destination not found in data")

@@ -1,69 +1,80 @@
-# Assignment  - RAG Chatbot
+# RAG Chatbot for Tourism Recommendations
 
-Welcome to **Product Builders** where we dive into the world of generative AI. Today, we are unveiling something truly exciting: a step-by-step tutorial on building your own Chat PDF, which we have lovingly named **Document Genie**.
-
-## Introduction
-Document RAG Chatbotis a chatbot built using the RAG (Retrieval-Augmented Generation) framework leveraging the generative AI model Gemini Pro. It processes your PDF documents by breaking them into manageable chunks, creating a searchable vector store, and generating accurate answers to your queries.
+This repository contains the code for a Retrieval-Augmented Generation (RAG) chatbot that provides information and highlights for various travel destinations. The chatbot uses OpenAI embeddings and Pinecone for vector storage and similarity search.
 
 ## Features
-- **Enter your Google API Key**: Securely input your API key.
-- **Upload Document**: Upload your PDF on the sidebar.
-- **Ask Questions**: Inquire about any content within your document.
 
-## Getting Started
+- Retrieves and displays highlights for a given travel destination.
+- Uses Pinecone for vector storage and similarity search.
+- Utilizes OpenAI embeddings to convert destination names and highlights into vectors.
+- Interactive user interface built with Streamlit.
 
-### Step 1: Obtain Google API Key
-2. Create your API key and save it securely.
-3. Enter your API key in the app.
+## Requirements
 
-### Step 2: Upload a PDF
-1. Use the file uploader to upload any PDF document.
-2. Click on "Submit and Process".
+- Python 3.8+
+- Streamlit
+- Pinecone
+- LangChain
+- OpenAI
+- dotenv
 
-### Step 3: Ask Questions
-1. Once processed, ask questions related to your document.
-2. Example: "How to use Canva AI?"
+## Setup
 
-## How It Works
-### RAG Framework
-- **Retrieval**: Searches external databases for related information.
-- **Augmentation**: Enriches the prompt with factual context.
-- **Generation**: Produces accurate, context-aware responses.
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/tourism-rag-chatbot.git
+    cd tourism-rag-chatbot
+    ```
 
-### Embeddings
-- Converts text into mathematical representations.
-- Uses vector databases to find similar texts.
-- Ensures relevant context alignment with user queries.
+2. Install the required dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
 
-## Code Walkthrough
-### Libraries
-- **PyPDF**: To read PDF documents.
-- **LangChain**: For chunking and embeddings.
-- **Google Generative AI Embeddings**: For converting text.
-- **Faiss**: For storing embeddings in a vector database.
-- **Streamlit**: For building the web interface.
+3. Create a `.env` file in the root directory and add your Pinecone and OpenAI API keys:
+    ```env
+    PINECONE_API_KEY=your-pinecone-api-key
+    OPENAI_API_KEY=your-openai-api-key
+    ```
 
-### Functions
-- **get_pdf_text**: Reads and extracts text from the uploaded PDF.
-- **get_text_chunks**: Splits the document into manageable chunks.
-- **get_vector**: Converts text chunks into embeddings and stores them.
-- **get_conversation_chain**: Generates responses using LLM with the provided context.
-- **process_user_question**: Searches relevant documents and generates a response.
+4. Ensure you have a JSON file named `destinations.json` in the root directory containing the travel destination data. The file should follow this structure:
+    ```json
+    [
+      {
+        "destination_name": "Paris",
+        "highlights": "Eiffel Tower, Louvre Museum, Notre-Dame Cathedral"
+      },
+      {
+        "destination_name": "New York",
+        "highlights": "Statue of Liberty, Central Park, Times Square"
+      }
+    ]
+    ```
 
-### Streamlit UI
-- **API Key Input**: Prompts user to input their Google API key.
-- **File Uploader**: Allows users to upload PDF documents.
-- **Ask Questions**: Interface for querying the document.
+## Usage
 
-## Deployment
-### Deploy on Streamlit Community Cloud
-1. Create an account on Streamlit.
-2. Go to the dashboard and click on "New App".
-3. Paste your GitHub URL and deploy.
+1. Run the Streamlit app:
+    ```sh
+    streamlit run app.py
+    ```
 
-## Conclusion
-We hope this application provides a deeper understanding of how RAG works. Deploy your app on Streamlit Community Cloud to showcase your project. Thank you for watching, and please subscribe for more tutorials.
+2. Open your web browser and navigate to `http://localhost:8501`.
 
-## Repository
+3. Enter a destination name in the input field to get the highlights information.
 
-Thank you so much!
+## Code Explanation
+
+- **Load Environment Variables**: Loads API keys from the `.env` file.
+- **Initialize Pinecone**: Sets up the Pinecone client and checks if the specified index exists, creating it if necessary.
+- **Load Data and Upsert to Pinecone**: Reads the destination data from a JSON file, converts it into vectors using OpenAI embeddings, and upserts it to Pinecone if the index is empty.
+- **Streamlit App**: Creates a simple web interface where users can input a destination name to get the corresponding highlights.
+
+## Future Enhancements
+
+- Add more detailed information for each destination.
+- Implement more robust error handling.
+- Enhance the user interface with additional features.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
